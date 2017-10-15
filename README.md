@@ -1,3 +1,6 @@
+<div class="logo">		<ha class="logo__name" data-text="SIDNEYDOBBER">bL JS	</ha></div>
+
+
 # [anime.js](http://animejs.com) ![](http://img.badgesize.io/juliangarnier/anime/v2.0/anime.min.js.svg?style=flat&color=18FF92)
 
 <img src="http://animejs.com/documentation/assets/img/readme/animejs-logo.gif" width="100%" />
